@@ -1,0 +1,10 @@
+{:car         ["Mercedes" "Porsche" "Ford" "VW" "Renault" "Ferrari" "Rolls Royce" "Toyota" "Volvo" "BMW"]
+ :color       ["magenta" "yellow" "white" "green" "red" "gray" "pink" "blue" "brown" "black"]
+ :drink       ["ice tea" "espresso" "wine" "tea" "beer" "water" "milk" "coffee" "lemonade" "soda"]
+ :flowers     ["tulips" "lilies" "roses" "cactuses" "dahlias" "crocuses" "hyacinth" "orchids" "geraniums" "daffodils"]
+ :food        ["chocolate" "ice cream" "cookies" "cheese" "spaghetti" "pancakes" "eggs" "steaks" "potatoes" "waffles"]
+ :nationality ["Spanish" "Swiss" "Norwegian" "Danish" "Swedish" "British" "Greek" "Italian" "German" "Irish"]
+ :pet         ["tortoise" "dog" "horse" "turtles" "cat" "butterflies" "mice" "birds" "snakes" "fish"]
+ :tobacco     ["Cubans" "Prince" "Marlboro" "Bluemaster" "Pall Mall" "Red Apple" "Kools" "Chesterfield" "Dunhill" "Blend"]
+ :sport       ["badminton" "tennis" "volleyball" "football" "ice hockey" "basketball" "baseball" "rugby" "lacrosse" "soccer"]
+ :trees       ["pines" "maple trees" "firs" "eucalytus" "redwoods" "nut trees" "willows" "oaks" "palm trees" "birch trees"]}
